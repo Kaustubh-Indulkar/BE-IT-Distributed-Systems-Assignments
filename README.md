@@ -1,4 +1,4 @@
-﻿# BE-IT-Distributed-Sytems-Assignments
+﻿# BE-IT-Distributed-Systems-Assignments
 
 This repository contains a collection of practical assignments for a Distributed Systems course. Each assignment demonstrates the use of core concepts such as Remote Method Invocation (RMI), CORBA, MPI/OpenMP, clock synchronization, mutual exclusion, leader election, web services, and a mini-project for multiplayer interaction.
 
